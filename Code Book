@@ -1,3 +1,39 @@
 Code Book
 
-This code book is about the steps to document the data
+This code book is about the steps to clean and merge the tidy data.
+
+Measurements
+
+tBodyAcc-XYZ
+
+tGravityAcc-XYZ
+
+tBodyAccJerk-XYZ
+
+tBodyGyro-XYZ
+
+tBodyGyroJerk-XYZ
+
+tBodyAccMag
+
+tGravityAccMag
+
+tBodyAccJerkMag
+
+tBodyGyroMag
+
+tBodyGyroJerkMag
+
+fBodyAcc-XYZ
+
+fBodyAccJerk-XYZ
+
+fBodyGyro-XYZ
+
+fBodyAccMag
+
+fBodyAccJerkMag
+
+fBodyGyroMag
+
+fBodyGyroJerkMag
