@@ -1,6 +1,6 @@
 # Code Book
 
-#This code book is about the steps to clean and merge the tidy data.
+This code book is about the steps to clean and merge the tidy data.
 
 # Measurements
 
