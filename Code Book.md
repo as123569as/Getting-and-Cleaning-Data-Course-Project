@@ -86,9 +86,9 @@ This code book is about the steps to clean and merge the tidy data.
 
 
 
-Activity Labels
+# Activity Labels
 
-"1"  "WALKING"
+- "1"  "WALKING"
 "2"  "WALKING_UPSTAIRS"
 "3"  "WALKING_DOWNSTAIRS"
 "4"  "SITTING"
