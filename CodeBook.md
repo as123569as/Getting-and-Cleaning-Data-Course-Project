@@ -1,7 +1,11 @@
 # Code Book
 
-This code book is about the steps to clean and merge the tidy data.
+This code book is about the description of the tidy data.
 
+# Observation
+
+- 1 subject  :The ID of 30 volunteers
+- 2 activity :The type of activity
 # Measurements
 
 - 1 tBodyAcc-mean()-X
