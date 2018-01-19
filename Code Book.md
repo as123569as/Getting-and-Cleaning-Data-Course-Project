@@ -4,8 +4,8 @@ This code book is about the steps to clean and merge the tidy data.
 
 # Measurements
 
-1 tBodyAcc-mean()-X
-2 tBodyAcc-mean()-Y
+- 1 tBodyAcc-mean()-X
+- 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
 4 tBodyAcc-std()-X
 5 tBodyAcc-std()-Y
@@ -18,7 +18,7 @@ This code book is about the steps to clean and merge the tidy data.
 12 tGravityAcc-std()-Z
 13 tBodyAccJerk-mean()-X
 14 tBodyAccJerk-mean()-Y
-15 tBodyAccJerk-mean()-Z
+- 15 tBodyAccJerk-mean()-Z
 16 tBodyAccJerk-std()-X
 17 tBodyAccJerk-std()-Y
 18 tBodyAccJerk-std()-Z
@@ -86,9 +86,9 @@ This code book is about the steps to clean and merge the tidy data.
 
 # Activity Labels
 
-- "1"  "WALKING"
-- "2"  "WALKING_UPSTAIRS"
-- "3"  "WALKING_DOWNSTAIRS"
-- "4"  "SITTING"
-- "5"  "STANDING"
-- "6"  "LAYING"
+- 1  WALKING
+- 2  WALKING_UPSTAIRS
+- 3  WALKING_DOWNSTAIRS
+- 4  SITTING
+- 5  STANDING
+- 6  LAYING
